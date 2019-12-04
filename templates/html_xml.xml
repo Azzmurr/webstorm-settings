@@ -1,0 +1,8 @@
+<templateSet group="html/xml">
+  <template name="row" value="&lt;div class=&quot;add-candidate-manually_row&quot;&gt;&#10;&#9;&#9;&#9;&lt;label for=&quot;candidate-$var$&quot;&gt;&lt;/label&gt;&#10;&#9;&#9;&#9;&lt;text-bo input-id=&quot;candidate-$var$&quot; model-value=&quot;model.candidate.$var$&quot; event-change=&quot;&quot;&gt;&lt;/text-bo&gt;&#10;&#9;&#9;&lt;/div&gt;" description="" toReformat="true" toShortenFQNames="true">
+    <variable name="var" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="HTML" value="true" />
+    </context>
+  </template>
+</templateSet>

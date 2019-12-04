@@ -1,0 +1,23 @@
+<templateSet group="JavaScript">
+  <template name="console" value="console.log(&quot;$NAME$&quot;, $arguments$)" description="console.log()" toReformat="false" toShortenFQNames="true">
+    <variable name="NAME" expression="jsMethodName()" defaultValue="" alwaysStopAt="true" />
+    <variable name="arguments" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+  <template name="itin" value="for ($VARKIND$ $VAR1$ in $ARRAY$) {&#10;  if ($ARRAY$.hasOwnProperty($VAR1$)){&#10;    $VARKIND$ $VAR2$ = $ARRAY$[$VAR1$];&#10;  }&#10;}" description="Iterate (for..in)" toReformat="true" toShortenFQNames="true">
+    <variable name="VARKIND" expression="jsSuggestDefaultVariableKind()" defaultValue="var" alwaysStopAt="false" />
+    <variable name="ARRAY" expression="jsArrayVariable()" defaultValue="&quot;array &quot;" alwaysStopAt="true" />
+    <variable name="VAR1" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="VAR2" expression="" defaultValue="" alwaysStopAt="true" />
+    <context />
+  </template>
+  <template name="sos" value="store.optimized.selectById(&quot;$table$&quot;, $id$);" description="store.optimized.selectById" toReformat="true" toShortenFQNames="true">
+    <variable name="table" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="id" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+</templateSet>
