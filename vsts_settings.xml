@@ -37,6 +37,10 @@
           <option name="value" value="" />
         </PropertyState>
         <PropertyState>
+          <option name="name" value="PullRequestsTab.autoRefresh" />
+          <option name="value" value="true" />
+        </PropertyState>
+        <PropertyState>
           <option name="name" value="lastContextKey" />
           <option name="value" value="//mywagez@dev.azure.com/mywagez/mywagez_web_plus_api/_git/mywagez_web_plus_api" />
         </PropertyState>
