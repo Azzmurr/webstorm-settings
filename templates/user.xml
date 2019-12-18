@@ -19,23 +19,23 @@
       <option name="JAVA_SCRIPT" value="true" />
     </context>
   </template>
-  <template name="t" value="stdlib.number.trimm($var1$)" description="" toReformat="true" toShortenFQNames="true">
+  <template name="t" value="stdlib.number.trimm($var1$)" description="" toReformat="true" toShortenFQNames="true" deactivated="true">
     <variable name="var1" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="JAVA_SCRIPT" value="true" />
     </context>
   </template>
-  <template name="sf" value="stdlib.view.shiftScrollBar('body', false);" description="" toReformat="true" toShortenFQNames="true">
+  <template name="sf" value="stdlib.view.shiftScrollBar('body', false);" description="" toReformat="true" toShortenFQNames="true" deactivated="true">
     <context>
       <option name="JAVA_SCRIPT" value="true" />
     </context>
   </template>
-  <template name="st" value="stdlib.view.shiftScrollBar('body', true);" description="" toReformat="false" toShortenFQNames="true">
+  <template name="st" value="stdlib.view.shiftScrollBar('body', true);" description="" toReformat="false" toShortenFQNames="true" deactivated="true">
     <context>
       <option name="JAVA_SCRIPT" value="true" />
     </context>
   </template>
-  <template name="stg" value="stdlib.translate.getFromTranslate(&quot;$VAR$&quot;)" description="stdlib.translate.getFromTranslate" toReformat="true" toShortenFQNames="true">
+  <template name="stg" value="stdlib.translate.getFromTranslate(&quot;$VAR$&quot;)" description="stdlib.translate.getFromTranslate" toReformat="true" toShortenFQNames="true" deactivated="true">
     <variable name="VAR" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="JAVA_SCRIPT" value="true" />
