@@ -1,34 +1,7 @@
 <application>
   <component name="VSTSSettings">
     <option name="serverContexts">
-      <array>
-        <ServerContextState>
-          <option name="type" value="VSO" />
-          <option name="uri" value="https://mywagez@dev.azure.com/mywagez/mywagez_Web_Plus_API/_git/mywagez_Web_Plus_API" />
-          <option name="serverUri" value="https://dev.azure.com/mywagez" />
-          <option name="userId" value="f42ef416-ab66-630b-8360-ce407709c527" />
-          <option name="teamProjectCollectionReference" value="{&quot;id&quot;:&quot;27d343ea-56ae-42fc-bdca-ab259da2df52&quot;,&quot;name&quot;:&quot;mywagez&quot;,&quot;url&quot;:&quot;https://dev.azure.com/mywagez/_apis/projectCollections/27d343ea-56ae-42fc-bdca-ab259da2df52&quot;}" />
-          <option name="teamProjectReference" value="{&quot;abbreviation&quot;:null,&quot;description&quot;:null,&quot;id&quot;:&quot;9b1532e4-fbb9-4075-83b1-691e13817167&quot;,&quot;name&quot;:&quot;mywagez_Web_Plus_API&quot;,&quot;revision&quot;:160,&quot;state&quot;:&quot;NEW&quot;,&quot;url&quot;:&quot;https://dev.azure.com/mywagez/_apis/projects/9b1532e4-fbb9-4075-83b1-691e13817167&quot;}" />
-          <option name="gitRepository" value="{&quot;defaultBranch&quot;:null,&quot;id&quot;:&quot;420f34f6-fb46-43a0-a7cd-5fda69ec0ec2&quot;,&quot;name&quot;:&quot;mywagez_Web_Plus_API&quot;,&quot;remoteUrl&quot;:&quot;https://mywagez@dev.azure.com/mywagez/mywagez_Web_Plus_API/_git/mywagez_Web_Plus_API&quot;,&quot;url&quot;:&quot;https://dev.azure.com/mywagez/_apis/git/repositories/420f34f6-fb46-43a0-a7cd-5fda69ec0ec2&quot;,&quot;project&quot;:{&quot;abbreviation&quot;:null,&quot;description&quot;:null,&quot;id&quot;:&quot;9b1532e4-fbb9-4075-83b1-691e13817167&quot;,&quot;name&quot;:&quot;mywagez_Web_Plus_API&quot;,&quot;revision&quot;:160,&quot;state&quot;:&quot;NEW&quot;,&quot;url&quot;:&quot;https://dev.azure.com/mywagez/_apis/projects/9b1532e4-fbb9-4075-83b1-691e13817167&quot;},&quot;_links&quot;:null}" />
-        </ServerContextState>
-        <ServerContextState>
-          <option name="type" value="VSO" />
-          <option name="uri" value="https://dev.azure.com/mywagez" />
-          <option name="serverUri" value="https://dev.azure.com/mywagez" />
-          <option name="userId" value="f42ef416-ab66-630b-8360-ce407709c527" />
-          <option name="teamProjectCollectionReference" value="{&quot;id&quot;:null,&quot;name&quot;:null,&quot;url&quot;:null}" />
-          <option name="teamProjectReference" value="{&quot;abbreviation&quot;:null,&quot;description&quot;:null,&quot;id&quot;:null,&quot;name&quot;:null,&quot;revision&quot;:0,&quot;state&quot;:null,&quot;url&quot;:null}" />
-        </ServerContextState>
-        <ServerContextState>
-          <option name="type" value="VSO" />
-          <option name="uri" value="https://mywagez@dev.azure.com/mywagez/mywagez_Web_App/_git/mywagez_Web_App" />
-          <option name="serverUri" value="https://dev.azure.com/mywagez" />
-          <option name="userId" value="f42ef416-ab66-630b-8360-ce407709c527" />
-          <option name="teamProjectCollectionReference" value="{&quot;id&quot;:&quot;27d343ea-56ae-42fc-bdca-ab259da2df52&quot;,&quot;name&quot;:&quot;mywagez&quot;,&quot;url&quot;:&quot;https://dev.azure.com/mywagez/_apis/projectCollections/27d343ea-56ae-42fc-bdca-ab259da2df52&quot;}" />
-          <option name="teamProjectReference" value="{&quot;abbreviation&quot;:null,&quot;description&quot;:null,&quot;id&quot;:&quot;360b4203-d789-425d-97e0-b2377dac1d39&quot;,&quot;name&quot;:&quot;mywagez_Web_App&quot;,&quot;revision&quot;:199,&quot;state&quot;:&quot;NEW&quot;,&quot;url&quot;:&quot;https://dev.azure.com/mywagez/_apis/projects/360b4203-d789-425d-97e0-b2377dac1d39&quot;}" />
-          <option name="gitRepository" value="{&quot;defaultBranch&quot;:null,&quot;id&quot;:&quot;7ea0e260-651c-40c1-bf34-1e7afeabd6b9&quot;,&quot;name&quot;:&quot;mywagez_Web_App&quot;,&quot;remoteUrl&quot;:&quot;https://mywagez@dev.azure.com/mywagez/mywagez_Web_App/_git/mywagez_Web_App&quot;,&quot;url&quot;:&quot;https://dev.azure.com/mywagez/_apis/git/repositories/7ea0e260-651c-40c1-bf34-1e7afeabd6b9&quot;,&quot;project&quot;:{&quot;abbreviation&quot;:null,&quot;description&quot;:null,&quot;id&quot;:&quot;360b4203-d789-425d-97e0-b2377dac1d39&quot;,&quot;name&quot;:&quot;mywagez_Web_App&quot;,&quot;revision&quot;:199,&quot;state&quot;:&quot;NEW&quot;,&quot;url&quot;:&quot;https://dev.azure.com/mywagez/_apis/projects/360b4203-d789-425d-97e0-b2377dac1d39&quot;},&quot;_links&quot;:null}" />
-        </ServerContextState>
-      </array>
+      <array />
     </option>
     <option name="properties">
       <array>
