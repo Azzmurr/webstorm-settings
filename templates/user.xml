@@ -13,7 +13,7 @@
       <option name="CSS" value="true" />
     </context>
   </template>
-  <template name="c" value="console.log($val$)" description="console.log" toReformat="true" toShortenFQNames="true">
+  <template name="c" value="console.log($val$)" description="console.log" toReformat="true" toShortenFQNames="true" deactivated="true">
     <variable name="val" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="JAVA_SCRIPT" value="true" />
