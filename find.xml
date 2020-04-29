@@ -2,8 +2,6 @@
   <component name="FindSettings">
     <option name="customScope" value="MW-638 Sprint 6 :: Project improvement :: Splitting for the components ( to have more independed ..." />
     <option name="defaultScopeName" value="MW-638 Sprint 6 :: Project improvement :: Splitting for the components ( to have more independed ..." />
-    <option name="wholeWordsOnly" value="true" />
-    <option name="WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="MW-638 Sprint 6 :: Project improvement :: Splitting for the components ( to have more independed ..." />
     <mask>*.properties</mask>
     <mask>*.jsp</mask>
