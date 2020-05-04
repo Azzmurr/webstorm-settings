@@ -1,10 +1,10 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="MW-588 Sprint 6 :: SUEZ :: Add leave date logic for missed employees" />
-    <option name="defaultScopeName" value="MW-588 Sprint 6 :: SUEZ :: Add leave date logic for missed employees" />
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
     <option name="localRegularExpressions" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
-    <option name="SEARCH_SCOPE" value="MW-588 Sprint 6 :: SUEZ :: Add leave date logic for missed employees" />
+    <option name="SEARCH_SCOPE" value="All Places" />
     <mask>*.properties</mask>
     <mask>*.jsp</mask>
     <mask>*.xml</mask>
