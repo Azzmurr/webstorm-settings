@@ -4,6 +4,15 @@
       <array>
         <ServerContextState>
           <option name="type" value="VSO" />
+          <option name="uri" value="https://mywagez@dev.azure.com/mywagez/mywagez_main/_git/mywagez_import_module" />
+          <option name="serverUri" value="https://dev.azure.com/mywagez" />
+          <option name="userId" value="f42ef416-ab66-630b-8360-ce407709c527" />
+          <option name="teamProjectCollectionReference" value="{&quot;id&quot;:&quot;27d343ea-56ae-42fc-bdca-ab259da2df52&quot;,&quot;name&quot;:&quot;mywagez&quot;,&quot;url&quot;:&quot;https://dev.azure.com/mywagez/_apis/projectCollections/27d343ea-56ae-42fc-bdca-ab259da2df52&quot;}" />
+          <option name="teamProjectReference" value="{&quot;abbreviation&quot;:null,&quot;description&quot;:null,&quot;id&quot;:&quot;90435dbd-805e-4358-af1d-0b6e36ca9c08&quot;,&quot;name&quot;:&quot;mywagez_main&quot;,&quot;revision&quot;:226,&quot;state&quot;:&quot;NEW&quot;,&quot;url&quot;:&quot;https://dev.azure.com/mywagez/_apis/projects/90435dbd-805e-4358-af1d-0b6e36ca9c08&quot;}" />
+          <option name="gitRepository" value="{&quot;defaultBranch&quot;:null,&quot;id&quot;:&quot;4ba4c31a-7d5d-421a-b8c9-2d40a4f28f0a&quot;,&quot;name&quot;:&quot;mywagez_import_module&quot;,&quot;remoteUrl&quot;:&quot;https://mywagez@dev.azure.com/mywagez/mywagez_main/_git/mywagez_import_module&quot;,&quot;url&quot;:&quot;https://dev.azure.com/mywagez/_apis/git/repositories/4ba4c31a-7d5d-421a-b8c9-2d40a4f28f0a&quot;,&quot;project&quot;:{&quot;abbreviation&quot;:null,&quot;description&quot;:null,&quot;id&quot;:&quot;90435dbd-805e-4358-af1d-0b6e36ca9c08&quot;,&quot;name&quot;:&quot;mywagez_main&quot;,&quot;revision&quot;:226,&quot;state&quot;:&quot;NEW&quot;,&quot;url&quot;:&quot;https://dev.azure.com/mywagez/_apis/projects/90435dbd-805e-4358-af1d-0b6e36ca9c08&quot;},&quot;_links&quot;:null}" />
+        </ServerContextState>
+        <ServerContextState>
+          <option name="type" value="VSO" />
           <option name="uri" value="https://mywagez@dev.azure.com/mywagez/mywagez_mobile_app/_git/mywagez_mobile_app" />
           <option name="serverUri" value="https://dev.azure.com/mywagez" />
           <option name="userId" value="f42ef416-ab66-630b-8360-ce407709c527" />
@@ -51,7 +60,7 @@
         </PropertyState>
         <PropertyState>
           <option name="name" value="lastContextKey" />
-          <option name="value" value="//mywagez@dev.azure.com/mywagez/mywagez_api_versioning/_git/mywagez_api_versioning" />
+          <option name="value" value="//mywagez@dev.azure.com/mywagez/mywagez_main/_git/mywagez_import_module" />
         </PropertyState>
       </array>
     </option>
