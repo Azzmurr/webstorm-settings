@@ -1,10 +1,10 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="MW-725 Sprint 7 :: MW :: Handle case if user already accepted T&amp;C :: Front End :: Add logic to ha..." />
-    <option name="defaultScopeName" value="MW-725 Sprint 7 :: MW :: Handle case if user already accepted T&amp;C :: Front End :: Add logic to ha..." />
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
     <option name="localCaseSensitive" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
-    <option name="SEARCH_SCOPE" value="MW-725 Sprint 7 :: MW :: Handle case if user already accepted T&amp;C :: Front End :: Add logic to ha..." />
+    <option name="SEARCH_SCOPE" value="All Places" />
     <mask>*.properties</mask>
     <mask>*.jsp</mask>
     <mask>*.xml</mask>
