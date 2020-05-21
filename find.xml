@@ -1,10 +1,10 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="All Places" />
-    <option name="defaultScopeName" value="All Places" />
+    <option name="customScope" value="MW-764 Sprint 7 :: MW :: Client Web App :: Add same functionality that implemented in client mobi..." />
+    <option name="defaultScopeName" value="MW-764 Sprint 7 :: MW :: Client Web App :: Add same functionality that implemented in client mobi..." />
     <option name="localCaseSensitive" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
-    <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="SEARCH_SCOPE" value="MW-764 Sprint 7 :: MW :: Client Web App :: Add same functionality that implemented in client mobi..." />
     <mask>*.properties</mask>
     <mask>*.jsp</mask>
     <mask>*.xml</mask>
