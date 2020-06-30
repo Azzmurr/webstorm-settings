@@ -1,12 +1,14 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="All Places" />
-    <option name="defaultScopeName" value="All Places" />
+    <option name="caseSensitive" value="true" />
+    <option name="customScope" value="MW-938 Sprint 9 :: MW :: Add libraries for verification bank account number and sort code" />
+    <option name="defaultScopeName" value="MW-938 Sprint 9 :: MW :: Add libraries for verification bank account number and sort code" />
     <option name="localRegularExpressions" value="true" />
     <option name="wholeWordsOnly" value="true" />
+    <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="WHOLE_WORDS_ONLY" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
-    <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="SEARCH_SCOPE" value="MW-938 Sprint 9 :: MW :: Add libraries for verification bank account number and sort code" />
     <mask>*.properties</mask>
     <mask>*.jsp</mask>
     <mask>*.xml</mask>
