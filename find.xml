@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="All Places" />
-    <option name="defaultScopeName" value="All Places" />
-    <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="customScope" value="MW-984 Wrong test in error notification for email sending" />
+    <option name="defaultScopeName" value="MW-984 Wrong test in error notification for email sending" />
+    <option name="SEARCH_SCOPE" value="MW-984 Wrong test in error notification for email sending" />
     <mask>*.properties</mask>
     <mask>*.jsp</mask>
     <mask>*.xml</mask>
