@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="MW-993 Sprint 10 :: Admin UI :: Adding Employees section to Admin panel " />
-    <option name="defaultScopeName" value="MW-993 Sprint 10 :: Admin UI :: Adding Employees section to Admin panel " />
-    <option name="SEARCH_SCOPE" value="MW-993 Sprint 10 :: Admin UI :: Adding Employees section to Admin panel " />
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
+    <option name="SEARCH_SCOPE" value="All Places" />
     <mask>*.properties</mask>
     <mask>*.jsp</mask>
     <mask>*.xml</mask>
