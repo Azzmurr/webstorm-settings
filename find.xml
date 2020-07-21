@@ -1,8 +1,10 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="All Places" />
-    <option name="defaultScopeName" value="All Places" />
-    <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="customScope" value="MW-1011 Admin :: FE :: Export of filtered transactions doesn't work correctly" />
+    <option name="defaultScopeName" value="MW-1011 Admin :: FE :: Export of filtered transactions doesn't work correctly" />
+    <option name="regularExpressions" value="true" />
+    <option name="REGULAR_EXPRESSIONS" value="true" />
+    <option name="SEARCH_SCOPE" value="MW-1011 Admin :: FE :: Export of filtered transactions doesn't work correctly" />
     <mask>*.properties</mask>
     <mask>*.jsp</mask>
     <mask>*.xml</mask>
