@@ -9,18 +9,4 @@
     <lookup />
   </component>
   <component name="Instance" id="9ae70bd8-3bcf-46ba-a6ed-e05d372cbd1f" version="2020.2.135" />
-  <component name="UsageLog">
-    <event name="OpenFile" place="ChangesBrowser" timestamp="2020-08-18T08:28:26.686272Z">
-      <attribute name="editor">false</attribute>
-      <attribute name="multipleLines">false</attribute>
-      <attribute name="multipleCarets">false</attribute>
-      <attribute name="bitbucket">cloud</attribute>
-    </event>
-    <event name="CopyLinkToFile" place="ChangesBrowser" timestamp="2020-08-18T08:28:48.982628100Z">
-      <attribute name="editor">false</attribute>
-      <attribute name="multipleLines">false</attribute>
-      <attribute name="multipleCarets">false</attribute>
-      <attribute name="bitbucket">cloud</attribute>
-    </event>
-  </component>
 </application>
