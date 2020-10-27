@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="All Places" />
-    <option name="defaultScopeName" value="All Places" />
-    <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="customScope" value="MW-1357 Sprint 15 :: MW :: Only appropriate salary types should be available for a particular com..." />
+    <option name="defaultScopeName" value="MW-1357 Sprint 15 :: MW :: Only appropriate salary types should be available for a particular com..." />
+    <option name="SEARCH_SCOPE" value="MW-1357 Sprint 15 :: MW :: Only appropriate salary types should be available for a particular com..." />
     <mask>*.properties</mask>
     <mask>*.jsp</mask>
     <mask>*.xml</mask>
