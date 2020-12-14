@@ -2,10 +2,7 @@
   <component name="FindSettings">
     <option name="customScope" value="MW-1455 Employment end date is not rewritten if it was set with some future date but today employ..." />
     <option name="defaultScopeName" value="MW-1455 Employment end date is not rewritten if it was set with some future date but today employ..." />
-    <option name="regularExpressions" value="true" />
-    <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="MW-1455 Employment end date is not rewritten if it was set with some future date but today employ..." />
-    <option name="FILE_MASK" value="*.reducer.ts" />
     <mask>*.properties</mask>
     <mask>*.jsp</mask>
     <mask>*.xml</mask>
