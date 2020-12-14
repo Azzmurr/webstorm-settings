@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="MW-1455 Employment end date is not rewritten if it was set with some future date but today employ..." />
-    <option name="defaultScopeName" value="MW-1455 Employment end date is not rewritten if it was set with some future date but today employ..." />
-    <option name="SEARCH_SCOPE" value="MW-1455 Employment end date is not rewritten if it was set with some future date but today employ..." />
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
+    <option name="SEARCH_SCOPE" value="All Places" />
     <mask>*.properties</mask>
     <mask>*.jsp</mask>
     <mask>*.xml</mask>
